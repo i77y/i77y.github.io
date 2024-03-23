@@ -1,0 +1,5 @@
+# Since OpenAI dropped their tools to the public,
+# robots have finally taken over the whole world.
+User-Agent: *
+Disallow: /
+Disallow: *
